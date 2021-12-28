@@ -1,8 +1,0 @@
-{
-  "baseUrl": "https://sjc.com.vn",
-  "defaultCommandTimeout": 30000,
-  "viewportWidth": 1280,
-  "viewportHeight": 800,
-  "responseTimeout": 500000,
-  "chromeWebSecurity": false
-}
